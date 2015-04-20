@@ -1,0 +1,53 @@
+[20-Apr-2015 06:17:49 UTC] PHP Warning:  include(..app.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 2
+[20-Apr-2015 06:17:49 UTC] PHP Warning:  include(): Failed opening '..app.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 2
+[20-Apr-2015 06:17:49 UTC] PHP Warning:  include(..header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 3
+[20-Apr-2015 06:17:49 UTC] PHP Warning:  include(): Failed opening '..header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 3
+[20-Apr-2015 06:17:49 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:17:49 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:08 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:08 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:29 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:29 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:57 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:57 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:59 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:18:59 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:19:02 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:19:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/introduction/index.php on line 113
+[20-Apr-2015 06:23:10 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:23:29 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:23:31 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:23:53 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:24:18 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:24:46 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:24:49 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:24:52 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:27:09 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:27:11 UTC] PHP Warning:  include(app.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/recipes/viewrecipe.php on line 2
+[20-Apr-2015 06:27:11 UTC] PHP Warning:  include(): Failed opening 'app.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/recipes/viewrecipe.php on line 2
+[20-Apr-2015 06:27:11 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/recipes/viewrecipe.php on line 3
+[20-Apr-2015 06:27:11 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/recipes/viewrecipe.php on line 3
+[20-Apr-2015 06:27:11 UTC] PHP Fatal error:  Call to undefined function getRecipeDetail() in /home/ubuntu/workspace/recipes/viewrecipe.php on line 6
+[20-Apr-2015 06:27:15 UTC] PHP Warning:  include(app.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/recipes/viewrecipe.php on line 2
+[20-Apr-2015 06:27:15 UTC] PHP Warning:  include(): Failed opening 'app.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/recipes/viewrecipe.php on line 2
+[20-Apr-2015 06:27:15 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/recipes/viewrecipe.php on line 3
+[20-Apr-2015 06:27:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/recipes/viewrecipe.php on line 3
+[20-Apr-2015 06:27:15 UTC] PHP Fatal error:  Call to undefined function getRecipeDetail() in /home/ubuntu/workspace/recipes/viewrecipe.php on line 6
+[20-Apr-2015 06:27:55 UTC] PHP Warning:  include(app.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/recipes/viewrecipe.php on line 2
+[20-Apr-2015 06:27:55 UTC] PHP Warning:  include(): Failed opening 'app.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/recipes/viewrecipe.php on line 2
+[20-Apr-2015 06:27:55 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/recipes/viewrecipe.php on line 3
+[20-Apr-2015 06:27:55 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/recipes/viewrecipe.php on line 3
+[20-Apr-2015 06:27:55 UTC] PHP Fatal error:  Call to undefined function getRecipeDetail() in /home/ubuntu/workspace/recipes/viewrecipe.php on line 6
+[20-Apr-2015 06:28:17 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:18 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:21 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:25 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:27 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:28 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:30 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:32 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:28:36 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44

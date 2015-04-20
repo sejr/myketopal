@@ -1,0 +1,200 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,700|Roboto:500,300,400);
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    #mainSearch {
+        width: 300px;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}
+
+body {
+    background: #F5F5F5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-top: 70px;
+}
+
+p {
+    font-size: 16px;
+    color: #777;
+}
+
+.intro {
+    background-color: #37c37f;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.recipeLink {
+    color: #555 !important;
+}
+
+.recipeLink:hover, .recipeLink:active, .recipeLink:focus {
+    color: #23aa68 !important;
+    text-decoration: none;
+}
+
+.introLead {
+    color: rgba(255, 255, 255, .8) !important;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.intro_box {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 0px rgba(0,0,0,.05);
+}
+
+strong {
+    font-weight: 500;
+}
+
+.page-header {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-top: 0px !important;
+    margin-top: 0px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: #FFF;
+    border: none;
+    box-shadow: 0px 2px 0px rgba(0,0,0,.05);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/* title */
+.navbar-default .navbar-brand {
+    color: #666;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #444;
+}
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: #9F9F9F;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #37c37f;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #23aa68;
+    background-color: #fff;
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #23aa68;
+    background-color: #fff;
+}
+/* caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #777;
+    border-bottom-color: #777;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #333;
+    border-bottom-color: #333;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #555;
+    border-bottom-color: #555;
+}
+/* mobile version */
+.navbar-default .navbar-toggle {
+    border-color: #DDD;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #DDD;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #CCC;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #777;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #333;
+    }
+}
+
+.form-control {
+    border: 2px solid #EEE;
+    box-shadow: none;
+}
+
+.form-control:hover {
+    border: 2px solid #CCC;
+    box-shadow: none;
+}
+
+.form-control:active, .form-control:focus {
+    border: 2px solid #37c37f;
+    box-shadow: none;
+}
+
+.btn-default {
+    border: none;
+    background-color: #eee;
+    color: #777;
+    font-weight: 500;
+}
