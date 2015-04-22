@@ -36,7 +36,7 @@
             <ul class="nav navbar-nav">
               <li><a href="/introduction/">Introduction</a></li>
               <li><a href="/recipes/">Recipes</a></li>
-              <li><a href="#">Ingredients</a></li>
+              <li><a href="/ingredients/">Ingredients</a></li>
             </ul>
             <form class="navbar-form navbar-right" role="search" method="post" action="/search/">
               <div class="form-group">

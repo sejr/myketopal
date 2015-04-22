@@ -51,3 +51,160 @@
 [20-Apr-2015 06:28:30 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
 [20-Apr-2015 06:28:32 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
 [20-Apr-2015 06:28:36 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:32:46 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:33:19 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:34:52 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:34:57 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:34:59 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:06 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:08 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:10 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:12 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:14 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:21 UTC] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/ubuntu/workspace/app.php on line 18
+[20-Apr-2015 06:37:37 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:51 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:37:55 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:39:06 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:39:11 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:39:14 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:39:15 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:39:17 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 06:43:18 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 08:08:15 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 15:10:13 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 15:50:03 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:11:37 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:11:46 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:11:48 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:11:51 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:11:56 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:13:50 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:13:50 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:40:29 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:40:35 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:40:57 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:41:01 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:41:40 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:41:53 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:42:15 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:42:16 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:42:18 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:42:24 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:54:01 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:54:14 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 16:54:18 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 17:52:05 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 18:41:46 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 18:42:17 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 18:42:31 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:54:36 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:54:39 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:54:45 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:55:13 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:55:15 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:59:29 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 19:59:40 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 20:18:28 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 20:18:29 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 20:18:33 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[20-Apr-2015 23:58:16 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[21-Apr-2015 00:03:13 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:36:14 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:36:18 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:36:22 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:36:37 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:37:00 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:37:12 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:38:02 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:38:07 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 44
+[22-Apr-2015 16:39:51 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:44:28 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:46:38 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:46:48 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:54:25 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:41 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:54:44 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:47 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:49 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:51 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:54 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:56 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:54:59 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:55:01 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:55:04 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:55:06 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:55:14 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:55:15 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:55:19 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:55:29 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:55:33 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:55:35 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:56:06 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:56:07 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:56:10 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:56:17 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:56:20 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:56:28 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:56:29 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:56:32 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 16:56:42 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:57:01 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:57:46 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:59:07 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:59:07 UTC] PHP Notice:  Undefined variable: resultTable in /home/ubuntu/workspace/app.php on line 40
+[22-Apr-2015 16:59:34 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 16:59:39 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 16:59:42 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 17:09:41 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:09:43 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 30
+[22-Apr-2015 17:09:43 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:09:45 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:09:51 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:09:57 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:10:00 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:10:56 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:11:00 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:11:11 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:11:14 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:11:18 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:11:20 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:11:54 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:11:56 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:12:40 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:12:43 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:13:01 UTC] PHP Notice:  Undefined variable: term in /home/ubuntu/workspace/search/index.php on line 11
+[22-Apr-2015 17:13:03 UTC] PHP Fatal error:  Call to undefined function returnRecipes() in /home/ubuntu/workspace/search/index.php on line 24
+[22-Apr-2015 17:15:02 UTC] PHP Notice:  Undefined variable: term in /home/ubuntu/workspace/search/index.php on line 11
+[22-Apr-2015 17:15:04 UTC] PHP Notice:  Undefined property: stdClass::$idingredients in /home/ubuntu/workspace/app.php on line 33
+[22-Apr-2015 17:15:04 UTC] PHP Notice:  Undefined property: stdClass::$name in /home/ubuntu/workspace/app.php on line 33
+[22-Apr-2015 17:15:04 UTC] PHP Notice:  Undefined property: stdClass::$idingredients in /home/ubuntu/workspace/app.php on line 33
+[22-Apr-2015 17:15:04 UTC] PHP Notice:  Undefined property: stdClass::$name in /home/ubuntu/workspace/app.php on line 33
+[22-Apr-2015 17:15:48 UTC] PHP Notice:  Undefined variable: term in /home/ubuntu/workspace/search/index.php on line 11
+[22-Apr-2015 17:17:12 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:17:13 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:18:18 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:18:35 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:18:38 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:18:40 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:18:42 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:18:43 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:19:18 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:19:20 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:19:56 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:19:58 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:19:59 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:20:01 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:20:05 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:25:51 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:25:52 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:26:51 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:26:52 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:26:55 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:26:57 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:27:49 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:27:50 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:27:52 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:28:04 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12
+[22-Apr-2015 17:28:08 UTC] PHP Warning:  Missing argument 1 for getIngredients(), called in /home/ubuntu/workspace/ingredients/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 55
+[22-Apr-2015 17:28:29 UTC] PHP Warning:  Missing argument 1 for getRecipes(), called in /home/ubuntu/workspace/recipes/index.php on line 13 and defined in /home/ubuntu/workspace/app.php on line 12

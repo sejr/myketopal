@@ -83,6 +83,8 @@ h2 {
 h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    margin: 0px;
+    padding: 0px;
 }
 
 h4 {

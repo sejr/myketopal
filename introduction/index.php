@@ -9,7 +9,7 @@
   </div>
 </div>
 <div class="container">
-  <br><br>
+  <br>
   <div class="intro_box">
     <h2 class="page-header">What is a ketogenic diet?</h2>
     <p>
@@ -22,7 +22,7 @@
       With controlled blood sugar levels, you will experience less hunger and cravings. Paired with an adequate protein and high fat intake, you will feel both satisfied and satiated by the diet.
     </p>
   </div>
-  <br><br>
+  <br>
   <div class="row">
     <div class="col-md-6">
       <div class="intro_box">
@@ -48,6 +48,7 @@
           Adequate protein is also a very important aspect of the Ketogenic Diet and it will help you preserve muscle mass.
         </p>
       </div>
+      <br>
     </div>
     <div class="col-md-6">
       <div class="intro_box">
@@ -59,16 +60,16 @@
           Though macronutrient ratios are a good starting point, they aren't always accurate. Another method is to choose a carb goal between 15-50g/day (20g is a good starting point), set your protein requirements (1.5-1.75g of protein per kilogram of ideal body weight), and fill the rest of your calories with fat.
         </p>
       </div>
-      <br><br>
+      <br>
       <div class="intro_box">
         <h4 class="page-header">Do I need to count calories?</h4>
         <p>
           In many cases, a Ketogenic Diet will help you reduce your caloric intake naturally. Some people don’t count calories while others do, it’s really a personal decision! But if you aren’t counting calories and you find your weight-loss is stalling, then consider tracking.
         </p>
       </div>
+      <br>
     </div>
   </div>
-  <br><br>
   <div class="row">
     <div class="col-md-4">
       <div class="intro_box">
@@ -80,6 +81,7 @@
           Other signs of ketosis might be; a funny taste in your mouth, your urine will smell different or you’re incredibly thirsty. But if you have been eating 20g of carbs a day for at least 3 days, you are more than likely in ketosis.
         </p>
       </div>
+      <br>
     </div>
     <div class="col-md-8">
       <div class="intro_box">
@@ -99,10 +101,11 @@
         This total adaptation process takes about three weeks to happen. During this time you may be continuing an exercise regimen or you may even be starting a new one. You may find that you don’t have as much endurance and strength as you are used to, and this is normal. Once you are fully keto-adapted, your body will be trained to operate on fat as its primary source of fuel, and you will see an improvement in your energy levels. Many even report having more energy, and more stable energy levels while in ketosis.
       </p>
       </div>
+      <br>
     </div>
   </div>
 </div>
-<br><br>
+<br>
 <div class="intro">
   <div class="container">
     <h1>I don't think I can give up carbs!</h1>

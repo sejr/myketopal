@@ -21,9 +21,16 @@
       if (!empty($_REQUEST['term'])) {
         $sql = "SELECT * FROM `recipes` WHERE `title` LIKE '%".$term."%'"; 
         $result = $mysqli->query($sql);
-        echo returnRecipes($result);
         if ($result->num_rows === 0){
             echo "<h4>No recipes matched your search term.</h4>";
+        } else {
+          while ($obj = $result->fetch_object()){
+            $resultTable = "<div class='intro_box'>";
+            $resultTable = $resultTable . "<a class='recipeLink' href='/recipes/".$obj->idrecipes."'><h2 class='page-header'>" . $obj->title . "</h2></a>";
+            $resultTable = $resultTable . "<p>" . $obj->description . "</p>";
+            $resultTable = $resultTable . "</div><br><br>";
+            echo $resultTable;
+          }
         }
         $mysqli->close();
       }

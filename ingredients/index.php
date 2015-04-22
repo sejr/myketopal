@@ -4,12 +4,12 @@
 ?>
 <div class="intro">
   <div class="container">
-    <h1>Recipes</h1>
+    <h1>Ingredients</h1>
   </div>
 </div>
 <div class="container">
   <br>
 <?php
-  getRecipes();
+  getIngredients();
   include("../footer.php");
 ?>
