@@ -11,5 +11,9 @@
   <br>
 <?php
   getIngredients();
+  echo "
+  <button class='btn btn-lg btn-default btn-block'>Submit New Ingredient</button>
+  <br>
+  ";
   include("../footer.php");
 ?>

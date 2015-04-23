@@ -19,7 +19,7 @@
         die('Unable to connect to database [' . $db->connect_error . ']');
       }
       if (!empty($_REQUEST['term'])) {
-        $sql = "SELECT * FROM `recipes` WHERE `title` LIKE '%".$term."%'"; 
+        $sql = "SELECT * FROM `recipes` WHERE `title` LIKE '%".$term."%' OR `description` LIKE '%".$term."%'"; 
         $result = $mysqli->query($sql);
         if ($result->num_rows === 0){
             echo "<h4>No recipes matched your search term.</h4>";

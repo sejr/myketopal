@@ -6,3 +6,5 @@ RewriteCond %{SCRIPT_FILENAME} !-f
  
 RewriteRule ^recipes/(\d+)*$ ./viewrecipe.php?id=$1
 RewriteRule ^ingredients/(\d+)*$ ./viewingredient.php?id=$1
+
+RewriteRule ^recipes/new ./addrecipe.php
